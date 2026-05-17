@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "email-agent": {
+      "command": "E:/Ai Engineer/Email MCP/venv/Scripts/python.exe",
+      "args": ["server.py"],
+      "cwd": "E:/Ai Engineer/Email MCP"
+    }
+  }
+}
