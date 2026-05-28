@@ -36,3 +36,4 @@ def authenticate_gmail():
     service = build('gmail', 'v1', credentials=creds)
 
     return service
+
